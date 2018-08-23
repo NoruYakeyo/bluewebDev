@@ -22,22 +22,21 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.12/jquery.bxslider.min.js"></script>    
 	<script src="/html/assets/js/main_script.js"></script>
+    <script src="/html/assets/js/top_banner.js"></script>
 
     <!-- bootstrapk ================================================== -->    
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css"><!-- 합쳐지고 최소화된 최신 CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css"><!-- 부가적인 테마 -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script><!-- 합쳐지고 최소화된 최신 자바스크립트 -->
     
-    <!-- css ================================================== -->
+    <!-- css ================================================== -->   
 	<link rel="stylesheet" href="/html/assets/css/common.css">
 	<link rel="stylesheet" href="/html/assets/css/style.css">
-
+    
 </head>
 <body>
     
-    
-    
-    
+       
     
 
 <!--========== header ==========-->
@@ -201,7 +200,7 @@
 		
     <!--========== footer slide ==========-->
     <section class="slider clearfix">	
-        <div class="footer_slider">	
+        <div class="footer_slider wrapper">	
             <div class="bxslider">
                 <div class="bg-box01 bg-box"></div>
                 <div class="bg-box02 bg-box"></div>              
